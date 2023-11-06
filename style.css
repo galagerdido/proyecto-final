@@ -1,0 +1,36 @@
+body {background-color: rgb(229, 216, 199);}
+
+header { text-align: center;
+    
+}
+
+img {
+width:400px ;
+height: 200px;
+
+
+}
+
+div {
+    background-color: rgb(236, 236, 172);
+    padding: 20px;
+    margin: 5 px;
+    text-align: center;
+
+    
+}
+h3 {
+    color: rgb(42, 165, 110);
+}
+article {
+    background-color: rgb(226, 233, 239);
+    padding: 20px;
+    margin: 5 px;
+    text-align: center;
+}
+
+nav {
+
+
+    text-align: center;
+}
